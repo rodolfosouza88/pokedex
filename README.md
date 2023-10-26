@@ -1,2 +1,6 @@
-# Pokedex
-Projeto de uma agenda Pokemon feita com Javascript, CSS, HTML.
+## 🐱 Pokédex 
+
+Aplicação feita com HTML, CSS e JavaScript que simula uma PokeAgenda do anime Pokémon. 
+
+## 💻 Demo
+https://pokedex-sepia-nu.vercel.app/
